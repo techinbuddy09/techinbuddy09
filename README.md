@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techinbuddy09" alt="techinbuddy09" /></a> </p>
 
-- 🌱 I’m currently learning **C++,Javascript,frontend**
+- 🌱 I’m currently learning **C++ , Javascript , frontend**
 
-- 📝 I regularly write articles on [https://www.geeksforgeeks.org/user/tulikasrivx6da/contributions/](https://www.geeksforgeeks.org/user/tulikasrivx6da/contributions/)
+- 📝 I wrote few articles on [https://www.geeksforgeeks.org/user/tulikasrivx6da/contributions/](https://www.geeksforgeeks.org/user/tulikasrivx6da/contributions/)
 
 - 📫 How to reach me **tulikasrivastavas09@gmail.com**
 
