@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tulika srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tulika srivastava" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tulika-srivastava-5b1a35244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tulika srivastava" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/2RwH6Wvd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/2RwH6Wvd" height="30" width="40" /></a>
 </p>
 
