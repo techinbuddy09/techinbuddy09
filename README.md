@@ -69,6 +69,9 @@
 <a href="mailto:tulikasrivastavas09@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://my-hacking-portfolioo.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%23ff69b4?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
 
 ---
 
