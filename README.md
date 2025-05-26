@@ -38,6 +38,10 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techinbuddy09&layout=compact&theme=tokyonight" />
 </p>
+<a href="https://your-portfolio-link.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%23ff69b4?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=techinbuddy09&show_icons=true&theme=tokyonight" />
