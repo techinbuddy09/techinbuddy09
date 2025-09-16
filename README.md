@@ -70,8 +70,8 @@
 
 ### 🎯 **SQLiify** | *NLP to SQL Query Translator*
 ```bash
-> Status: [ACTIVE] Jan 2025 - Present
-> Tech Stack: MySQL | LangChain | Streamlit | HuggingFace | Google APIs
+> Status: [COMPLETED] Jan 2025 - Present
+> Tech Stack: MySQL | LangChain | Streamlit |Google APIs
 ```
 - 🧠 **Engineered** scalable NLP application using LangChain
 - 🎤 **Built** interactive web interface for text/speech-based queries
