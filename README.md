@@ -71,20 +71,38 @@
 ### 🎯 **SQLiify** | *NLP to SQL Query Translator*
 ```bash
 > Status: [COMPLETED] Jan 2025 - Present
-> Tech Stack: MySQL | LangChain | Streamlit |Google APIs
+> Tech Stack: MySQL | LangChain | Streamlit | Google APIs
 ```
 - 🧠 **Engineered** scalable NLP application using LangChain
 - 🎤 **Built** interactive web interface for text/speech-based queries
 - ⚡ **Optimized** database queries with context-aware retrieval system
 
-### 👗 **VogueVault** | *AI-Powered Fashion Recommender*
+### 🎯 **LeetBuddy** | *Intelligent LeetCode Recommendation System*
 ```bash
 > Status: [COMPLETED] 2024
-> Tech Stack: React | Flask | Python | JSON | REST APIs
+> Tech Stack: Next.js | Flask | Go | MongoDB | Firebase | GraphQL | GCP
 ```
-- 🏗️ **Developed** scalable full-stack web application
-- 🤖 **Implemented** AI-powered outfit recommendation engine
-- 🔗 **Architected** RESTful APIs for seamless data exchange
+LeetBuddy is an intelligent, personalized question recommendation system designed specifically for LeetCode users. By leveraging advanced graph-based structures, topic modeling, and Markov Random Fields, our system analyzes user interactions, question similarities, and topic relevance to suggest the most appropriate questions for continued skill improvement and optimal learning progression. 📈
+
+#### **✨ Features**
+- 🔍 **Personalized Recommendations**: Intelligent suggestions based on user activity, skill level, and learning patterns
+- 🧠 **Advanced Topic Modeling**: Groups questions by related concepts for enhanced understanding
+- 📊 **Interactive Dashboard**: Comprehensive user statistics and tailored question recommendations
+- ⚡ **Real-Time Performance**: Lightning-fast recommendations using sophisticated graph algorithms and belief propagation
+- 🎯 **Multi-Layer Analysis**: Content-based filtering, topic modeling, and graph-based relationship mapping
+- 📈 **Progress Tracking**: Monitor your learning journey and skill development over time
+
+#### **🛠️ Tech Stack**
+- **Frontend**: Next.js with Tailwind CSS for responsive and interactive UI
+- **Backend**: Flask for ML model API endpoints, Go for efficient user data fetching
+- **Database**: MongoDB for scalable user data storage
+- **Authentication**: Firebase for secure user management
+- **Data Query**: GraphQL for efficient and flexible data operations
+- **Machine Learning**: Custom algorithms for TF-IDF, topic modeling, and belief propagation
+- **ML Engine**: Google Cloud Platform (App Engine) for scalable model deployment
+- **Backend Services**: OnRender for reliable API hosting
+- **Frontend**: Vercel for fast, global content delivery
+- **Database**: MongoDB Atlas for cloud-based data management
 
 ---
 
