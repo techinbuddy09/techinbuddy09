@@ -14,8 +14,6 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 ## 👨‍💻 About Me
 
 ```typescript
@@ -48,8 +46,6 @@ const tulika = {
     }
 };
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -229,8 +225,6 @@ Personalized problem recommendations powered by ML
 
 ## 🎯 What I'm Up To
 
-<img align="right" alt="Coding GIF" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 ```javascript
 class CurrentFocus {
     constructor() {
@@ -257,8 +251,6 @@ class CurrentFocus {
 - 🌞 Afternoon: Build & ship features  
 - 🌆 Evening: Learn new technologies
 - 🌙 Night: Open source contributions
-
-<br clear="right"/>
 
 ---
 
