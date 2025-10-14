@@ -383,9 +383,6 @@ const contactInfo = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulika-srivastava)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techbuddy815@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-hacking-portfolioo.vercel.app/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/techinbuddy09)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/techinbuddy09)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/techinbuddy09)
 
 </div>
 
