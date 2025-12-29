@@ -37,10 +37,10 @@ const tulika = {
     ],
     
     technologies: {
-        languages: ["C++", "Python", "JavaScript", "SQL"],
+        languages: ["C++", "JAVA", "JavaScript", "SQL"],
         frontend: ["React", "Next.js", "TailwindCSS"],
-        backend: ["Node.js", "Flask", "Express"],
-        databases: ["MongoDB", "MySQL", "Firebase"],
+        backend: ["Node.js", "Express"],
+        databases: ["MongoDB", "MySQL",],
         cloud: ["Google Cloud Platform"],
         tools: ["Git", "VS Code", "Postman"]
     }
@@ -109,20 +109,20 @@ const tulika = {
 <br><b>HackerRank</b>
 <br>⭐⭐⭐⭐⭐ 5 Star
 <br>SQL Gold Badge
-<br>200+ Problems
+<br>300+ Problems
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="80"/>
 <br><b>LeetCode</b>
 <br>Active Solver
-<br>500+ Problems
+<br>600+ Problems
 </td>
 </tr>
 </table>
 
 ### 📊 Problem Solving Stats
 ```python
-total_problems_solved = 500+
+total_problems_solved = 600+
 platforms = ["CodeChef", "HackerRank", "LeetCode"]
 success_rate = "94%+"
 consistency = "Daily Solver"
@@ -193,10 +193,10 @@ Personalized problem recommendations powered by ML
 |---------------|-----------|
 | **Government Recognition** | Appreciation from Hon. Defence Minister Shri Rajnath Singh |
 | **Top 10 Finalist** | BitBlitz Hackathon - CodeX @ SIT Pune |
-| **6+ Hackathons** | Walmart, Goldman Sachs, Google, Amazon, JPMorgan, Flipkart |
+| **6+ Hackathons** | Walmart, Goldman Sachs, Google, Amazon, Flipkart,EY |
 | **Google Cloud Certified** | Generative AI Skills Badge |
 | **Algotech Fellowship** | Top 4K from 20K+ participants |
-| **500+ Problems** | Solved across multiple platforms |
+| **600+ Problems** | Solved across multiple platforms |
 
 </div>
 
