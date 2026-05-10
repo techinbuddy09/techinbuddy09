@@ -1,280 +1,245 @@
+````markdown
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Tulika+Srivastava;Full-Stack+Developer;Competitive+Programmer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3000&pause=1000&color=7C83FD&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Tulika+Srivastava;AI%2FML+%26+Full-Stack+Enthusiast;LeetCode+1746+%7C+CodeChef+3%E2%98%85;Building+Systems+That+Solve+Real+Problems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" />
-</p>
+  <a href="mailto:tulikas0925@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/tulika-srivastava-5b1a35244/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=techinbuddy09&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/techinbuddy09?label=Followers&style=for-the-badge&color=6366f1" alt="followers" />
-  <img src="https://img.shields.io/github/stars/techinbuddy09?label=Stars&style=for-the-badge&color=6366f1" alt="stars" />
+  <a href="https://github.com/techinbuddy09">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/reegan_gill/">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+
+  <a href="https://codeforces.com/profile/skyyfury_07">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+
+  <a href="https://www.codechef.com/users/watch_cliff_51">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👩‍💻 About Me
 
-```typescript
-const tulika = {
-    pronouns: "she" | "her",
-    location: "Banasthali Vidyapith 🎓",
-    role: "Full-Stack Developer",
+```cpp
+class TulikaSrivastava {
+public:
     
-    currentFocus: [
-        "Building scalable applications",
-        "Competitive Programming",
-        "AI/ML & NLP",
-        "Open Source"
-    ],
+    string role = "AI/ML & Full-Stack Enthusiast";
     
-    askMeAbout: [
-        "Web Development",
-        "Data Structures & Algorithms", 
-        "System Design",
-        "LangChain & LLMs"
-    ],
-    
-    technologies: {
-        languages: ["C++", "JAVA", "JavaScript", "SQL"],
-        frontend: ["React", "Next.js", "TailwindCSS"],
-        backend: ["Node.js", "Express"],
-        databases: ["MongoDB", "MySQL",],
-        cloud: ["Google Cloud Platform"],
-        tools: ["Git", "VS Code", "Postman"]
-    }
+    vector<string> interests = {
+        "Artificial Intelligence",
+        "Full-Stack Development",
+        "Problem Solving",
+        "Competitive Programming"
+    };
+
+    vector<string> currentlyBuilding = {
+        "AI-powered systems",
+        "NLP-based applications",
+        "Scalable web platforms"
+    };
+
+    string mindset = "Build. Learn. Improve. Repeat.";
 };
 ```
 
+- 🎓 CSE'27 @ **Banasthali Vidyapith**
+- 💡 Passionate about building AI-powered systems and scalable applications
+- 🧠 Strong interest in AI/ML, NLP, and full-stack development
+- ⚡ Regularly practice DSA and competitive programming
+- 🌱 Currently exploring advanced system design and intelligent recommendation systems
+
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
+### Languages
 <p>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,java,mysql" />
 </p>
 
-### Frontend Development
+### Frontend
 <p>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
-### Backend & Database
+### Backend & Databases
 <p>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,firebase" />
 </p>
 
-### Cloud & Tools
+### Tools & Technologies
 <p>
-  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,gcp,vscode" />
 </p>
 
 </div>
 
 ---
 
-## 🏆 Competitive Programming
+# 🚀 Featured Projects
 
-<div align="center">
+## 🧠 LeetBuddy — AI-Powered LeetCode Question Recommender
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/codechef.png" width="80"/>
-<br><b>CodeChef</b>
-<br>⭐⭐⭐ 3 Star
-<br>Active Solver
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" width="80"/>
-<br><b>HackerRank</b>
-<br>⭐⭐⭐⭐⭐ 5 Star
-<br>SQL Gold Badge
-<br>300+ Problems
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="80"/>
-<br><b>LeetCode</b>
-<br>Active Solver
-<br>600+ Problems
-</td>
-</tr>
-</table>
+🔗 **Repository:**  
+<a href="https://github.com/TeamWork0100/LeetBuddy">LeetBuddy GitHub</a>
 
-### 📊 Problem Solving Stats
-```python
-total_problems_solved = 600+
-platforms = ["CodeChef", "HackerRank", "LeetCode"]
-success_rate = "94%+"
-consistency = "Daily Solver"
-```
+### Overview
+An AI-powered recommendation engine that suggests the next best coding questions based on user skill level and solving history.
 
-</div>
+### Tech Stack
+`Next.js` `Flask` `Go` `MongoDB` `GCP`
+
+### Key Highlights
+- Built a personalized recommendation pipeline using TF-IDF, topic modeling, and Markov Random Fields
+- Implemented belief propagation on graph-based question relationships to optimize learning paths
+- Developed a full-stack dashboard for recommendations, progress tracking, and user insights
+- Deployed scalable Flask ML APIs and Go microservices using Vercel and GCP
 
 ---
 
-## 🚀 Featured Projects
+## 🌍 VibeScape — NLP-Based Travel Discovery Platform
 
-<div align="center">
+🔗 **Repository:**  
+<a href="https://github.com/vanssssssss/Vibescape">VibeScape GitHub</a>
 
-<table>
-<tr>
-<td width="50%">
+### Overview
+A full-stack NLP-powered platform that converts user “vibes” into personalized travel and location recommendations.
 
-### 🎯 SQLiify
-**NLP to SQL Query Translator**
+### Tech Stack
+`React` `Node.js` `Express.js` `PostgreSQL`
 
-<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
-
-Transform natural language into SQL queries using AI
-
-**Tech Stack:**
-- MySQL, LangChain
-- Streamlit, Google APIs
-- Voice Recognition
-
-**Highlights:**
-- 94% query accuracy
-- Text & voice input
-- Real-time execution
-
-</td>
-<td width="50%">
-
-### 🧠 LeetBuddy
-**AI Recommendation System**
-
-<img src="https://img.shields.io/badge/Status-Production-success?style=for-the-badge" />
-
-Personalized problem recommendations powered by ML
-
-**Tech Stack:**
-- Next.js, Flask, Go
-- MongoDB, Firebase, GCP
-- Graph Algorithms
-
-**Highlights:**
-- 92% accuracy
-- 85% efficiency boost
-- Scalable architecture
-
-</td>
-</tr>
-</table>
-
-</div>
+### Key Highlights
+- Implemented vibe-based recommendation logic using cosine similarity and NLP techniques
+- Built secure JWT authentication with protected routes and email verification
+- Integrated GPS-based location search and interactive map visualization using Leaflet
+- Designed personalized travel memory management with notes and image uploads
 
 ---
 
-## 🎖️ Achievements & Recognition
+# 🏆 Competitive Programming & Achievements
+
+## Coding Profiles
 
 <div align="center">
 
-| 🏆 Achievement | 📝 Details |
-|---------------|-----------|
-| **Government Recognition** | Appreciation from Hon. Defence Minister Shri Rajnath Singh |
-| **Top 10 Finalist** | BitBlitz Hackathon - CodeX @ SIT Pune |
-| **6+ Hackathons** | Walmart, Goldman Sachs, Google, Amazon, Flipkart,EY |
-| **Google Cloud Certified** | Generative AI Skills Badge |
-| **Algotech Fellowship** | Top 4K from 20K+ participants |
-| **600+ Problems** | Solved across multiple platforms |
-
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=techinbuddy09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techinbuddy09&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techinbuddy09&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techinbuddy09&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=techinbuddy09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
----
-
-## 🎯 What I'm Up To
-
-```javascript
-class CurrentFocus {
-    constructor() {
-        this.learning = [
-            "Advanced LangChain & LLMs",
-            "System Design at Scale",
-            "Cloud-Native Architecture",
-            "Open Source Contributions"
-        ];
-        
-        this.building = [
-            "AI-powered applications",
-            "Scalable web services",
-            "Developer tools"
-        ];
-        
-        this.goal = "Ship impactful products 🚀";
-    }
-}
-```
-
-**Daily Routine:**
-- 🌅 Morning: Solve DSA problems
-- 🌞 Afternoon: Build & ship features  
-- 🌆 Evening: Learn new technologies
-- 🌙 Night: Open source contributions
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/tulika-srivastava">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:techbuddy815@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://leetcode.com/u/reegan_gill/">
+  <img src="https://img.shields.io/badge/LeetCode-reegan__gill-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<br/><br/>
+<a href="https://www.codechef.com/users/watch_cliff_51">
+  <img src="https://img.shields.io/badge/CodeChef-watch__cliff__51-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
 
-**💡 Open to collaboration and exciting opportunities!**
+<a href="https://codeforces.com/profile/skyyfury_07">
+  <img src="https://img.shields.io/badge/Codeforces-skyyfury__07-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
 
-```javascript
-const contact = {
-    email: "techbuddy815@gmail.com",
-    linkedin: "tulika-srivastava",
-    status: "Available for opportunities 🟢"
-};
-```
+</div>
+
+---
+
+## 📊 Competitive Programming Stats
+
+<div align="center">
+
+| Platform | Profile | Achievement |
+|----------|----------|-------------|
+| **LeetCode** | [reegan_gill](https://leetcode.com/u/reegan_gill/) | Max Rating: **1746** • Top **13.69%** • 77+ Contests |
+| **CodeChef** | [watch_cliff_51](https://www.codechef.com/users/watch_cliff_51) | **3★** • Max Rating: **1673** • Global Rank **202** |
+| **Codeforces** | [skyyfury_07](https://codeforces.com/profile/skyyfury_07) | **Pupil** • Max Rating: **1322** |
+| **HackerRank** | SQL | **5★** • SQL Gold Badge |
+
+</div>
+
+---
+
+## 🧠 Problem Solving Highlights
+
+- Solved **700+ DSA problems** across LeetCode, Codeforces, and CodeChef
+- Earned **50 / 100 / 200 / 365 / 500-day** LeetCode consistency badges
+- Regularly participate in algorithmic and rated coding contests
+- Strong foundation in data structures, algorithms, and problem-solving patterns
+
+---
+
+# 🎖️ Experience & Leadership
+
+### Executive Member & Student Representative — CodeChef BV Chapter
+- Supported coding events, community engagement, and event operations
+
+### Operations Volunteer — E-Cell Banasthali Vidyapith
+- Assisted in entrepreneurship-focused event coordination and execution
+
+### Technical Volunteer — Mayukh National Technical Fest
+- Managed participant workflows and technical event logistics
+
+---
+
+# 🏅 Achievements & Recognition
+
+- 🏆 Top 10 Finalist — BitBlitz Hackathon (CodeX @ SIT Pune)
+- 🎓 Selected for AlgoTech Fellowship (Top 4K among 20K+ participants)
+- 🇮🇳 Received Letter of Appreciation from Hon. Defence Minister Shri Rajnath Singh
+- ☁️ Google Cloud Skills Boost — Generative AI
+- 💻 Participated in Walmart Sparkathon, Google Girl Hackathon, Flipkart Runway, Goldman Sachs Hackathon, and Amazon HackOn
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=techinbuddy09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techinbuddy09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=techinbuddy09&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
+
+- Advanced AI/ML Systems
+- Recommendation Engines
+- System Design
+- Scalable Backend Architecture
+- NLP & Intelligent Applications
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:tulikas0925@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tulika-srivastava-5b1a35244/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
@@ -282,24 +247,7 @@ const contact = {
 
 <div align="center">
 
-### ⚡ Fun Fact
-
-<img src="https://readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight" />
+### ⚡ “Building systems that solve real problems.”
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-<br/>
-
-**"Building the future, one commit at a time"** ⚡
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" />
-
-</div>
+````
