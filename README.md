@@ -1,13 +1,12 @@
-````markdown
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3000&pause=1000&color=7C83FD&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Tulika+Srivastava;AI%2FML+%26+Full-Stack+Enthusiast;LeetCode+1746+%7C+CodeChef+3%E2%98%85;Building+Systems+That+Solve+Real+Problems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="mailto:tulikas0925@gmail.com">
+  <a href="mailto:tulikasrivastavas09@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  
+
   <a href="https://www.linkedin.com/in/tulika-srivastava-5b1a35244/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -36,9 +35,9 @@
 ```cpp
 class TulikaSrivastava {
 public:
-    
+
     string role = "AI/ML & Full-Stack Enthusiast";
-    
+
     vector<string> interests = {
         "Artificial Intelligence",
         "Full-Stack Development",
@@ -250,4 +249,3 @@ A full-stack NLP-powered platform that converts user “vibes” into personaliz
 ### ⚡ “Building systems that solve real problems.”
 
 </div>
-````
