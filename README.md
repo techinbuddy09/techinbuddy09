@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:tulikasrivastavas09@gmail.com">
+  <a href="mailto:tulikas0925@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
@@ -56,10 +56,10 @@ public:
 ```
 
 - 🎓 CSE'27 @ **Banasthali Vidyapith**
-- 💡 Passionate about building AI-powered systems and scalable applications
-- 🧠 Strong interest in AI/ML, NLP, and full-stack development
-- ⚡ Regularly practice DSA and competitive programming
-- 🌱 Currently exploring advanced system design and intelligent recommendation systems
+- 💡 Building AI-powered and full-stack applications with focus on real-world problem solving
+- 🧠 Interested in AI/ML, NLP, recommendation systems, and scalable backend architecture
+- ⚡ Active in competitive programming across LeetCode, CodeChef, and Codeforces
+- 🌱 Currently diving deeper into Linux, LLMs, system design, cloud technologies, and modern AI workflows
 
 ---
 
@@ -84,16 +84,16 @@ public:
 
 ### Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,gcp,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,gcp,vscode,linux" />
 </p>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 🧠 LeetBuddy — AI-Powered LeetCode Question Recommender
+## LeetBuddy — AI-Powered LeetCode Question Recommender
 
 🔗 **Repository:**  
 <a href="https://github.com/TeamWork0100/LeetBuddy">LeetBuddy GitHub</a>
@@ -105,14 +105,34 @@ An AI-powered recommendation engine that suggests the next best coding questions
 `Next.js` `Flask` `Go` `MongoDB` `GCP`
 
 ### Key Highlights
-- Built a personalized recommendation pipeline using TF-IDF, topic modeling, and Markov Random Fields
-- Implemented belief propagation on graph-based question relationships to optimize learning paths
-- Developed a full-stack dashboard for recommendations, progress tracking, and user insights
-- Deployed scalable Flask ML APIs and Go microservices using Vercel and GCP
+- Built an AI-powered recommendation engine that suggests coding questions based on user skill level and solving history
+- Designed personalized recommendation pipelines using TF-IDF, topic modeling, and Markov Random Fields
+- Implemented graph-based learning and belief propagation to optimize learning paths
+- Developed a full-stack dashboard for recommendations, analytics, and progress tracking
+- Deployed scalable Flask ML APIs and Go microservices using Vercel, GCP, and MongoDB Atlas
 
 ---
 
-## 🌍 VibeScape — NLP-Based Travel Discovery Platform
+## SQLiify — NLP to SQL Query Translator
+
+🔗 **Repository:**  
+<a href="https://github.com/TeamWork0100/-SQLiify-">SQLiify GitHub</a>
+
+### Overview
+An AI-powered application that converts natural language prompts into executable SQL queries using NLP and LLM-based workflows.
+
+### Tech Stack
+`Python` `MySQL` `LangChain` `Streamlit` `Google APIs`
+
+### Key Highlights
+- Built an NLP-based pipeline to transform natural language into structured SQL queries
+- Integrated prompt engineering and LLM workflows for query generation
+- Supported real-time query execution and database interaction
+- Designed an interactive interface for simplified database querying experience
+
+---
+
+## VibeScape — NLP-Based Travel Discovery Platform
 
 🔗 **Repository:**  
 <a href="https://github.com/vanssssssss/Vibescape">VibeScape GitHub</a>
@@ -124,10 +144,11 @@ A full-stack NLP-powered platform that converts user “vibes” into personaliz
 `React` `Node.js` `Express.js` `PostgreSQL`
 
 ### Key Highlights
-- Implemented vibe-based recommendation logic using cosine similarity and NLP techniques
+- Developed an NLP-powered travel discovery platform that converts user “vibes” into personalized recommendations
+- Implemented cosine similarity and vibe-tag matching for intelligent preference classification
 - Built secure JWT authentication with protected routes and email verification
-- Integrated GPS-based location search and interactive map visualization using Leaflet
-- Designed personalized travel memory management with notes and image uploads
+- Integrated GPS-based search, autocomplete, and interactive map visualization using Leaflet
+- Designed personalized travel memory management with notes, uploads, and lifecycle tracking
 
 ---
 
@@ -170,10 +191,21 @@ A full-stack NLP-powered platform that converts user “vibes” into personaliz
 
 ## 🧠 Problem Solving Highlights
 
-- Solved **700+ DSA problems** across LeetCode, Codeforces, and CodeChef
+- Solved **900+ DSA problems** across LeetCode, Codeforces, and CodeChef
 - Earned **50 / 100 / 200 / 365 / 500-day** LeetCode consistency badges
 - Regularly participate in algorithmic and rated coding contests
 - Strong foundation in data structures, algorithms, and problem-solving patterns
+
+---
+
+# 💻 What I Enjoy Building
+
+- AI-powered recommendation systems
+- NLP-based applications
+- Full-stack web platforms
+- Backend APIs and scalable systems
+- Developer-focused tools and workflows
+- Intelligent user experiences powered by AI
 
 ---
 
@@ -218,13 +250,19 @@ A full-stack NLP-powered platform that converts user “vibes” into personaliz
 
 ---
 
-# 🌱 Currently Exploring
+# 🧪 Currently Learning & Exploring
 
-- Advanced AI/ML Systems
-- Recommendation Engines
-- System Design
-- Scalable Backend Architecture
-- NLP & Intelligent Applications
+<div align="center">
+
+| Domain | Exploring |
+|--------|------------|
+|  AI/ML | LLMs, Recommendation Systems, NLP Pipelines |
+|  Cloud | GCP, Deployment Workflows, Scalable Services |
+|  Systems | Linux, Backend Architecture, API Design |
+|  CS Fundamentals | System Design, DSA, Databases |
+|  Development | Full-Stack Applications & AI Integrations |
+
+</div>
 
 ---
 
