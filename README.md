@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tulika%20Srivastava&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20%7C%20Full-Stack%20%7C%20Problem%20Solver&descAlignY=51&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tulika%20Srivastava&fontSize=42&fontColor=fff&animation=twinkling&font[...]
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=7C83FD&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Systems+That+Matter+%F0%9F%9A%80;LeetCode+1746+%7C+CodeChef+3%E2%98%85+%7C+900%2B+Problems+Solved;NLP+%C2%B7+Recommendation+Systems+%C2%B7+Full-Stack+Dev;CSE+%2727+%40+Banasthali+Vidyapith)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=7C83FD&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Systems+That+M[...]
 
 </div>
 
@@ -18,6 +18,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode_1746-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/reegan_gill/)
 [![CodeChef](https://img.shields.io/badge/CodeChef_3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/watch_cliff_51)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/skyyfury_07)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1HlHGaTWuvzfWTSkPHCI6FWZmxVPj_LCs/view?usp=sharing)
 
 </div>
 
@@ -94,13 +95,25 @@ class TulikaSrivastava:
 
 **Stack:** `React` `Node.js` `Express.js` `PostgreSQL`
 
-> 🎓 *Academic Project — developed collaboratively with [Vasundhara](https://github.com/vasundhara), [Vanshika Singhal](https://github.com/vanssssssss), and Vibha Singh as part of our project evaluation coursework, under the guidance and mentorship of **Dr. Mainaz Faridi**, Banasthali Vidyapith.*
+> 🎓 *Academic Project — developed collaboratively with [Vasundhara](https://github.com/vasundhara), [Vanshika Singhal](https://github.com/vanssssssss), and Vibha Singh as part of our project eval[...]
 
 **What makes it stand out:**
 - 🧩 **Cosine Similarity + Vibe-Tag Matching** for intelligent preference classification
 - 🔐 Secure **JWT authentication** with email verification and protected routes
 - 🗺️ **GPS-based search, autocomplete & interactive maps** via Leaflet.js
 - 📓 Personalized travel memory management — notes, uploads & lifecycle tracking
+
+---
+
+## 📚 Blogs & Publications
+
+<div align="center">
+
+| Platform | Profile |
+|----------|---------|
+| 📖 **GeeksforGeeks** | [View My Articles](https://www.geeksforgeeks.org/profile/tulikasrivx6da?tab=articles) |
+
+</div>
 
 ---
 
@@ -164,7 +177,7 @@ class TulikaSrivastava:
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=techinbuddy09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=techinbuddy09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true[...]
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techinbuddy09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
