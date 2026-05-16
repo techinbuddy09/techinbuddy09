@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tulika%20Srivastava&fontSize=42&fontColor=fff&animation=twinkling&font[...]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tulika%20Srivastava&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=7C83FD&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Systems+That+M[...]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=7C83FD&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Systems+That+Matter;AI+%7C+ML+%7C+Full-Stack+%7C+DSA;Open+to+Internships+%26+Collaborations;Build.+Learn.+Improve.+Repeat.)](https://git.io/typing-svg)
 
 </div>
 
@@ -95,7 +95,7 @@ class TulikaSrivastava:
 
 **Stack:** `React` `Node.js` `Express.js` `PostgreSQL`
 
-> 🎓 *Academic Project — developed collaboratively with [Vasundhara](https://github.com/vasundhara), [Vanshika Singhal](https://github.com/vanssssssss), and Vibha Singh as part of our project eval[...]
+> 🎓 *Academic Project — developed collaboratively with [Vasundhara](https://github.com/vasundhara), [Vanshika Singhal](https://github.com/vanssssssss), and Vibha Singh as part of our project evaluation.*
 
 **What makes it stand out:**
 - 🧩 **Cosine Similarity + Vibe-Tag Matching** for intelligent preference classification
@@ -177,20 +177,20 @@ class TulikaSrivastava:
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=techinbuddy09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true[...]
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techinbuddy09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=techinbuddy09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techinbuddy09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=techinbuddy09&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=techinbuddy09&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=techinbuddy09&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=techinbuddy09&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 
 </div>
 
@@ -221,7 +221,7 @@ class TulikaSrivastava:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 ### 💬 Open to Off-Campus Opportunities, Internships & Collaborations
 
