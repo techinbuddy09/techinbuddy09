@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tulika%20Srivastava&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=%3C%20Tulika%20Srivastava%20%2F%3E&fontSize=38&fontColor=00FFAB&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%2B%20AI%20Systems%20Engineer&descAlignY=55&descColor=7C83FD" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=7C83FD&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Systems+That+Matter;AI+%7C+ML+%7C+Full-Stack+%7C+DSA;Open+to+Internships+%26+Collaborations;Build.+Learn.+Improve.+Repeat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=00FFAB&center=true&vCenter=true&width=800&lines=%24+whoami+%E2%86%92+AI%2FML+%7C+Full-Stack+%7C+DSA;%24+status+%E2%86%92+Open+to+Internships+%26+Collabs;%24+philosophy+%E2%86%92+Build.+Learn.+Improve.+Repeat.;%24+uptime+%E2%86%92+caffeine-free+%26+running)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,9 +22,13 @@
 
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+</div>
+
 ---
 
-## 🧠 Who Am I?
+## `> system.init()`
 
 ```python
 class TulikaSrivastava:
@@ -32,22 +36,31 @@ class TulikaSrivastava:
         self.education   = "B.Tech CSE '27 @ Banasthali Vidyapith"
         self.focus       = ["AI/ML", "NLP", "Full-Stack Dev", "Competitive Programming"]
         self.building    = "AI-powered systems that solve real-world problems"
-        self.currently   = ["LLMs & AI Workflows", "RAG Pipelines & Fine-tuning", "AI/ML at scale", "LeetBuddy — AI-powered coding question recommender"]
+        self.currently   = [
+            "LLMs & AI Workflows",
+            "RAG Pipelines & Fine-tuning",
+            "AI/ML at scale",
+            "LeetBuddy — AI-powered coding question recommender"
+        ]
         self.fun_fact    = "I write caffeine-free code ⚡"
         self.philosophy  = "Build. Learn. Improve. Repeat."
 
-    def available_for(self):
+    def available_for(self) -> list:
         return ["Off-Campus Opportunities", "Internships", "Open Source", "Hackathons"]
+
+>>> tulika = TulikaSrivastava()
+>>> tulika.available_for()
+['Off-Campus Opportunities', 'Internships', 'Open Source', 'Hackathons']
 ```
 
 ---
 
-## 🏆 Quick Stats at a Glance
+## `> stats --summary`
 
 <div align="center">
 
 | 🎯 Metric | 📊 Value |
-|-----------|----------|
+|:-----------|:----------|
 | 💻 DSA Problems Solved | **900+** across LeetCode, CF, CodeChef |
 | 🏅 LeetCode Rating | **1746** · Top **13.69%** · 77+ Contests |
 | ⭐ CodeChef | **3★** · Max Rating **1673** · Global Rank **202** |
@@ -59,9 +72,11 @@ class TulikaSrivastava:
 
 ---
 
-## 🚀 Featured Projects
+## `> ls ./projects --featured`
 
-### 🤖 [LeetBuddy](https://github.com/TeamWork0100/LeetBuddy) — AI-Powered LeetCode Question Recommender
+<details open>
+<summary><b>🤖 LeetBuddy</b> — AI-Powered LeetCode Question Recommender</summary>
+<br>
 
 > **What it does:** Recommends the *next best* coding problem based on your skill level and solving history — like a personalized coach for DSA prep.
 
@@ -73,9 +88,13 @@ class TulikaSrivastava:
 - 📊 Full-stack dashboard — recommendations, analytics, and progress tracking in one place
 - ☁️ Deployed scalable **Flask ML APIs + Go microservices** on GCP & MongoDB Atlas
 
----
+🔗 [github.com/TeamWork0100/LeetBuddy](https://github.com/TeamWork0100/LeetBuddy)
 
-### 🗣️ [SQLiify](https://github.com/TeamWork0100/-SQLiify-) — Natural Language → SQL Translator
+</details>
+
+<details>
+<summary><b>🗣️ SQLiify</b> — Natural Language → SQL Translator</summary>
+<br>
 
 > **What it does:** Type a question in plain English, get a ready-to-run SQL query. No SQL knowledge needed.
 
@@ -87,9 +106,13 @@ class TulikaSrivastava:
 - ⚡ Real-time query execution and live database interaction
 - 🎨 Clean interactive Streamlit interface for a seamless user experience
 
----
+🔗 [github.com/TeamWork0100/-SQLiify-](https://github.com/TeamWork0100/-SQLiify-)
 
-### 🌍 [VibeScape](https://github.com/vanssssssss/Vibescape) — NLP-Based Travel Discovery Platform
+</details>
+
+<details>
+<summary><b>🌍 VibeScape</b> — NLP-Based Travel Discovery Platform</summary>
+<br>
 
 > **What it does:** Tell it your vibe — it finds your perfect travel destination. AI meets wanderlust.
 
@@ -103,21 +126,25 @@ class TulikaSrivastava:
 - 🗺️ **GPS-based search, autocomplete & interactive maps** via Leaflet.js
 - 📓 Personalized travel memory management — notes, uploads & lifecycle tracking
 
+🔗 [github.com/vanssssssss/Vibescape](https://github.com/vanssssssss/Vibescape)
+
+</details>
+
 ---
 
-## 📚 Blogs & Publications
+## `> cat blogs.md`
 
 <div align="center">
 
 | Platform | Profile |
-|----------|---------|
+|:----------|:---------|
 | 📖 **GeeksforGeeks** | [View My Articles](https://www.geeksforgeeks.org/profile/tulikasrivx6da?tab=articles) |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## `> tech --stack`
 
 <div align="center">
 
@@ -157,12 +184,12 @@ class TulikaSrivastava:
 
 ---
 
-## 🎖️ Achievements & Recognition
+## `> achievements --list`
 
 <div align="center">
 
 | 🏅 Achievement | Details |
-|----------------|---------|
+|:----------------|:---------|
 | 🏆 **Top 10 Finalist** | BitBlitz Hackathon — CodeX @ SIT Pune |
 | 🎓 **AlgoTech Fellowship** | Selected from **Top 4K out of 20K+** participants |
 | 🇮🇳 **Letter of Appreciation** | From Hon. Defence Minister Shri Rajnath Singh |
@@ -173,35 +200,35 @@ class TulikaSrivastava:
 
 ---
 
-## 📈 GitHub Stats
+## `> github --analytics`
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=techinbuddy09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techinbuddy09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=techinbuddy09&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFAB&icon_color=7C83FD&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techinbuddy09&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFAB&text_color=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=techinbuddy09&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=techinbuddy09&theme=nightowl&hide_border=true&background=0D1117&ring=00FFAB&fire=7C83FD&currStreakLabel=00FFAB" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=techinbuddy09&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=techinbuddy09&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFAB&line=7C83FD&point=ffffff" />
 
 </div>
 
 ---
 
-## 🌱 Currently Exploring
+## `> tail -f currently_exploring.log`
 
 <div align="center">
 
 | Domain | What I'm Learning |
-|--------|-------------------|
+|:--------|:-------------------|
 | 🤖 AI/ML | LLMs · RAG Pipelines · Fine-tuning · AI Workflows · NLP at scale |
 | ☁️ Cloud | GCP · Scalable Deployment · Microservices |
 | 🏗️ Systems | System Design · Linux · Backend Architecture |
@@ -211,7 +238,7 @@ class TulikaSrivastava:
 
 ---
 
-## 🤝 Leadership & Community
+## `> grep -i "leadership" community.log`
 
 - 👩‍💼 **Executive Member & Student Rep** — CodeChef BV Chapter · Organized events, drove community engagement
 - 🚀 **Operations Volunteer** — E-Cell Banasthali Vidyapith · Entrepreneurship event coordination
@@ -221,9 +248,9 @@ class TulikaSrivastava:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer&animation=fadeIn" />
 
-### 💬 Open to Off-Campus Opportunities, Internships & Collaborations
+### `$ echo "Open to Off-Campus Opportunities, Internships & Collaborations"`
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulika-srivastava-5b1a35244/)
 [![Email](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tulikas0925@gmail.com)
