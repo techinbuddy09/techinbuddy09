@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=%3C%20Tulika%20Srivastava%20%2F%3E&fontSize=38&fontColor=00FFAB&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%2B%20AI%20Systems%20Engineer&descAlignY=55&descColor=7C83FD" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00160f&height=200&section=header&text=%3C%20Tulika%20Srivastava%20%2F%3E&fontSize=38&fontColor=00FF9C&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%2B%20AI%20Systems%20Engineer&descAlignY=55&descColor=39FF14" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=00FFAB&center=true&vCenter=true&width=800&lines=%24+whoami+%E2%86%92+AI%2FML+%7C+Full-Stack+%7C+DSA;%24+status+%E2%86%92+Open+to+Internships+%26+Collabs;%24+philosophy+%E2%86%92+Build.+Learn.+Improve.+Repeat.;%24+uptime+%E2%86%92+caffeine-free+%26+running)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=800&lines=%24+whoami+%E2%86%92+AI%2FML+%7C+Full-Stack+%7C+DSA;%24+status+%E2%86%92+Open+to+Internships+%26+Collabs;%24+philosophy+%E2%86%92+Build.+Learn.+Improve.+Repeat.;%24+uptime+%E2%86%92+caffeine-free+%26+running)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,9 +22,7 @@
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=header" width="100%" />
 
 ---
 
@@ -204,22 +202,24 @@ class TulikaSrivastava:
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=techinbuddy09&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFAB&icon_color=7C83FD&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techinbuddy09&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFAB&text_color=c9d1d9" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=techinbuddy09&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techinbuddy09&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=techinbuddy09&theme=nightowl&hide_border=true&background=0D1117&ring=00FFAB&fire=7C83FD&currStreakLabel=00FFAB" />
+<img src="https://streak-stats.demolab.com/?user=techinbuddy09&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&dates=6e7681" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=techinbuddy09&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFAB&line=7C83FD&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=techinbuddy09&theme=react-dark&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=ffffff" />
 
 </div>
+
+> 💡 *If any widget above shows a broken icon, it's just the free stats API cold-starting or rate-limiting for a moment — a hard refresh on GitHub usually fixes it. All links point to stable, actively-maintained services.*
 
 ---
 
@@ -248,7 +248,7 @@ class TulikaSrivastava:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00160f,50:0f2027,100:000000&height=140&section=footer&animation=fadeIn" />
 
 ### `$ echo "Open to Off-Campus Opportunities, Internships & Collaborations"`
 
