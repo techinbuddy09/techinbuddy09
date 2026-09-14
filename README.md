@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulika-srivastava-5b1a35244/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tulikas0925@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/techinbuddy09)
-[![LeetCode](https://img.shields.io/badge/LeetCode_1746-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/reegan_gill/)
+[![LeetCode](https://img.shields.io/badge/LeetCode_1746-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/JB1476/)
 [![CodeChef](https://img.shields.io/badge/CodeChef_3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/watch_cliff_51)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/skyyfury_07)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1HlHGaTWuvzfWTSkPHCI6FWZmxVPj_LCs/view?usp=sharing)
@@ -60,7 +60,7 @@ class TulikaSrivastava:
 | 🎯 Metric | 📊 Value |
 |:-----------|:----------|
 | 💻 DSA Problems Solved | **900+** across LeetCode, CF, CodeChef |
-| 🏅 LeetCode Rating | **1746** · Top **13.69%** · 77+ Contests |
+| 🏅 LeetCode Rating | **1869** · Top **10.23%** · 77+ Contests |
 | ⭐ CodeChef | **3★** · Max Rating **1673** · Global Rank **202** |
 | 🔵 Codeforces | **Pupil** · Max Rating **1322** |
 | 🥇 SQL HackerRank | **5★ Gold Badge** |
@@ -125,6 +125,47 @@ class TulikaSrivastava:
 - 📓 Personalized travel memory management — notes, uploads & lifecycle tracking
 
 🔗 [github.com/vanssssssss/Vibescape](https://github.com/vanssssssss/Vibescape)
+
+</details>
+
+
+<details>
+<summary><b>🎮 Deton_8</b> — Real-Time Multiplayer Chain Reaction</summary>
+<br>
+
+> **What it does:** A modern web-based Chain Reaction game with AI opponents, real-time multiplayer, timed turns, and an immersive 3D board experience.
+
+**Stack:** `Next.js` `TypeScript` `Node.js` `Express.js` `Socket.io` `Tailwind CSS` `Docker`
+
+**What makes it stand out:**
+- 🌐 **Real-time multiplayer** for 2–4 players using WebSockets and 5-letter room codes
+- 🤖 **AI opponents** with Easy random play and Medium one-ply greedy decision-making
+- ⏱️ **Timed gameplay** with 10/15/20/30-second turns and backend-authoritative turn handling
+- 🎮 Shared **pure game engine** across frontend and backend, with the backend as the source of truth for online games
+- 💬 In-game chat, undo support, disconnect-to-win handling, and procedural audio using Web Audio API
+- 🐳 **Docker + Docker Compose** with GitHub Actions CI/CD for automated Docker image publishing
+
+🔗 [github.com/techinbuddy09/deton_8](https://github.com/techinbuddy09/deton_8)
+
+</details>
+
+
+<details>
+<summary><b>🩺 Code Doctor AI</b> — AI-Powered GitHub Repository Analyzer</summary>
+<br>
+
+> **What it does:** Analyze public GitHub repositories using static analysis, security scanning, dependency inspection, and optional LLM-assisted code review.
+
+**Stack:** `Python` `Streamlit` `GitHub API` `LLM APIs` `Pytest`
+
+**What makes it stand out:**
+- 🔍 Combines **source-code parsing, deterministic static checks, security scanning, and dependency inspection** into structured code-quality findings
+- 🤖 **LLM-assisted analysis** with bounded multi-file batching, configurable limits, retry handling, and partial-failure recovery
+- 🛠️ Repository-scoped **remediation workflows** with automatic backup and revert support
+- ✅ **Validation pipeline** with Python/JSON syntax checks, test-framework detection, and test execution with timeouts
+- 📊 Generates structured **Markdown and JSON reports** for repository analysis and findings
+
+🔗 [GitHub Repository](https://github.com/techinbuddy09/Code-Doctor-AI)
 
 </details>
 
