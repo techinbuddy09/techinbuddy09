@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00160f&height=200&section=header&text=%3C%20Tulika%20Srivastava%20%2F%3E&fontSize=38&fontColor=00FF9C&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%2B%20AI%20Systems%20Engineer&descAlignY=55&descColor=39FF14" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00160f&height=200&section=header&text=Tulika%20Srivastava&fontSize=38&fontColor=00FF9C&animation=fadeIn&fontAlignY=35&desc=AI%20%2B%20Full-Stack%20%2B%20DSA&descAlignY=55&descColor=39FF14" width="100%" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=800&lines=%24+whoami+%E2%86%92+AI%2FML+%7C+Full-Stack+%7C+DSA;%24+status+%E2%86%92+Open+to+Internships+%26+Collabs;%24+philosophy+%E2%86%92+Build.+Learn.+Improve.+Repeat.;%24+uptime+%E2%86%92+caffeine-free+%26+running)](https://git.io/typing-svg)
+<a href="https://github.com/techinbuddy09">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=800&lines=%24+whoami+%E2%86%92+AI%2FML+%7C+Full-Stack+%7C+DSA;%24+status+%E2%86%92+Open+to+Internships+%26+Collabs;%24+philosophy+%E2%86%92+Build.+Learn.+Improve.+Repeat." alt="Typing SVG" />
+</a>
 
 </div>
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulika-srivastava-5b1a35244/)
