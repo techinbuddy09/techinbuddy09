@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulika-srivastava-5b1a35244/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tulikas0925@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/techinbuddy09)
-[![LeetCode](https://img.shields.io/badge/LeetCode_1746-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/JB1476/)
+[![LeetCode](https://img.shields.io/badge/LeetCode_knight-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/JB1476/)
 [![CodeChef](https://img.shields.io/badge/CodeChef_3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/watch_cliff_51)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/skyyfury_07)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1HlHGaTWuvzfWTSkPHCI6FWZmxVPj_LCs/view?usp=sharing)
